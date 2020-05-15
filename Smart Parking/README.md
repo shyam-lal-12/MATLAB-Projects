@@ -1,6 +1,6 @@
 #Smart Parking System
 
-Using Simuling environment to develop and implement a Smart Parking System for vehicles that automatically lets in only the desired number of vehicles and prevents any additional vehicles that try to enter. 
+Using Simulink environment to develop and implement a Smart Parking System for vehicles that automatically lets in only the desired number of vehicles and prevents any additional vehicles that try to enter. 
 
 1. MATLAB version: 2019a
 2. Arduino Board: Uno R3
