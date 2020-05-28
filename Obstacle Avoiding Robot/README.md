@@ -7,7 +7,14 @@ Use Simulink environment to develop and implement an obstacle avoiding robot tha
    2. Simulink Support Package for Arduino Hardware
    3. Arduino_Engineering_Kit_Hardware_Support
    4. Simulink library for Arduino Liquid Crystal Display
-4. Arduino Board Pins:
+4. Hardware Components Used:
+   1. Ultrasonic Sensor 
+   2. DC Motor
+   3. LEDs - Red
+   4. LCD 1602 module + 220ohm + 10k potentiometer
+   5. Bread Board
+   6. Jumper wires
+5. Arduino Board Pins:
    5V   :  Supply for ultrasonic sensor, LCD module, L293D motor driver chip and Servo motor.
    3.3V :  Supply for DC motor.
    GND  :  Ground for ultrasonic sensor, LCD module, L293D motor driver chip and Servo motor.
@@ -23,7 +30,7 @@ Use Simulink environment to develop and implement an obstacle avoiding robot tha
    pin 11: D7 pin of LCD module.
    pin 12: Control pin of Servo motor.
    pin 13: LED pin
-5. Functions Used:
+6. Functions Used:
    *Main function: To make use of Ultrasonic sensor to control DC motor, Servo motor and LED based on the obstacle in front of the sensor.
    1. Read ultrasonic sensor data and calculate the distance of the obstacle from the robot.
    2. Keep DC motor turned ON, Servo motor in its initial position and LED OFF untill an obstacle is detected by the sensor.
