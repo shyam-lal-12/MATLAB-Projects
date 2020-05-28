@@ -17,21 +17,21 @@ Use Simulink environment to develop and implement an obstacle avoiding robot tha
    5. Bread Board
    6. Jumper wires
 ### 5. Arduino Board Pins:
-   5V   :  Supply for ultrasonic sensor, LCD module, L293D motor driver chip and Servo motor.
-   3.3V :  Supply for DC motor.
-   GND  :  Ground for ultrasonic sensor, LCD module, L293D motor driver chip and Servo motor.
-   pin 2:  Trigger for ultrasonic sensor.
-   pin 3:  Echo for ultrasonic sensor.
-   pin 4:  pin 7 of L293D chip.
-   pin 5:  pin 2 of L293D chip.
-   pin 6:  RS pin of LCD module.
-   pin 7:  En pin of LCD module. 
-   pin 8:  D4 pin of LCD module.
-   pin 9:  D5 pin of LCD module.
-   pin 10: D6 pin of LCD module. 
-   pin 11: D7 pin of LCD module.
-   pin 12: Control pin of Servo motor.
-   pin 13: LED pin
+   5V   :  Supply for ultrasonic sensor, LCD module, L293D motor driver chip and Servo motor.<br />
+   3.3V :  Supply for DC motor.<br />
+   GND  :  Ground for ultrasonic sensor, LCD module, L293D motor driver chip and Servo motor.<br />
+   pin 2:  Trigger for ultrasonic sensor.<br />
+   pin 3:  Echo for ultrasonic sensor.<br />
+   pin 4:  pin 7 of L293D chip.<br />
+   pin 5:  pin 2 of L293D chip.<br />
+   pin 6:  RS pin of LCD module.<br />
+   pin 7:  En pin of LCD module. <br />
+   pin 8:  D4 pin of LCD module.<br />
+   pin 9:  D5 pin of LCD module.<br />
+   pin 10: D6 pin of LCD module. <br />
+   pin 11: D7 pin of LCD module.<br />
+   pin 12: Control pin of Servo motor.<br />
+   pin 13: LED pin.<br />
 ### 6. Functions Used:
    #### Main function:
    To make use of Ultrasonic sensor to control DC motor, Servo motor and LED based on the obstacle in front of the sensor.
