@@ -1,4 +1,4 @@
-# obstacle-avoiding-robot
+# Obstacle Avoiding Robot
 Use Simulink environment to develop and implement an obstacle avoiding robot that will move straight until it detects an obstacle, which then will maneuver to a perpendicular direction until no obstacle is detected. 
 1. MATLAB version: 2019a
 2. Arduino Board: Uno R3
