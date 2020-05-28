@@ -9,3 +9,11 @@ Using Simulink environment to develop and implement a Humidity Alert System for 
    2. Simulink Support Package for Arduino Hardware
    3. Arduino_Engineering_Kit_Hardware_Support
    4. Simulink library for Arduino Liquid Crystal Display
+4. Hardware Components Used:
+   1. DHT11 Temperature and Humidity Module 
+   2. IR Receiver Module & IR Remote controller
+   3. Active Buzzer
+   4. LCD 1602 module 
+   5. Potentiometer 10k
+   6. Bread Board
+   7. Jumper wires & Dupont Wires
