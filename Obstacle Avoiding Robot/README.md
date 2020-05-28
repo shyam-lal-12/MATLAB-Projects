@@ -11,7 +11,7 @@ Use Simulink environment to develop and implement an obstacle avoiding robot tha
    4. Simulink library for Arduino Liquid Crystal Display
 ### 4. Hardware Components Used:
    1. Ultrasonic Sensor 
-   2. DC Motor & Servo Motor
+   2. DC Motor & Servo Motor(SG90)
    3. LEDs - Red
    4. LCD 1602 module + 220ohm + 10k potentiometer
    5. Bread Board
